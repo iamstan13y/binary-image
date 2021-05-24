@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2010\Projects\binarypic\binarypic\bin\Debug\binarypic.exe
+c:\users\user\documents\visual studio 2010\Projects\binarypic\binarypic\bin\Debug\binarypic.pdb
+c:\users\user\documents\visual studio 2010\Projects\binarypic\binarypic\bin\Debug\binarypic.xml
+c:\users\user\documents\visual studio 2010\Projects\binarypic\binarypic\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\user\documents\visual studio 2010\Projects\binarypic\binarypic\obj\x86\Debug\binarypic.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\binarypic\binarypic\obj\x86\Debug\binarypic.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\binarypic\binarypic\obj\x86\Debug\binarypic.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\binarypic\binarypic\obj\x86\Debug\binarypic.exe
+c:\users\user\documents\visual studio 2010\Projects\binarypic\binarypic\obj\x86\Debug\binarypic.xml
+c:\users\user\documents\visual studio 2010\Projects\binarypic\binarypic\obj\x86\Debug\binarypic.pdb
